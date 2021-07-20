@@ -1,1 +1,1 @@
-<h1 style="text-align: center;">Exercícios resolvidos</h1>
+<center><h1>Exercícios resolvidos</h1></center>
